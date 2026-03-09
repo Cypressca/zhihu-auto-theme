@@ -3,7 +3,7 @@
 // @namespace    https://github.com/Cypressca/zhihu-auto-theme
 // @version      1.0.0
 // @description  Follow system dark/light mode on Zhihu by syncing ?theme=dark|light.
-// @author       You
+// @author       Cypressca
 // @homepageURL  https://github.com/Cypressca/zhihu-auto-theme
 // @supportURL   https://github.com/Cypressca/zhihu-auto-theme/issues
 // @updateURL    https://raw.githubusercontent.com/Cypressca/zhihu-auto-theme/main/zhihu-auto-theme.user.js
